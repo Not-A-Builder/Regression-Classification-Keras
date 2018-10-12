@@ -7,4 +7,4 @@ Inside the Dataets folder, you will find the 2 requisite datsets in .csv format.
 
 • diabetes_data
 
-The code for demonstration of Keras usage is in .ipynb format, in the file DL_Keras_Regression_&_Classification.ipynb, and the same notebook contains the code for Regression problem and also the Classification problem.
+The code for demonstration of Keras usage is in .ipynb format, in the file DL_Keras_Regression-&-Classification.ipynb, and the same notebook contains the code for Regression problem and also the Classification problem.
