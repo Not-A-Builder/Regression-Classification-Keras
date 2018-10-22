@@ -9,7 +9,7 @@ Inside the Dataets folder, you will find the 2 requisite datsets in .csv format:
 
 The code for demonstration of Keras usage is in .ipynb format, in the file DL_Keras_Regression-&-Classification.ipynb, and the same notebook contains the code for Regression problem and also the Classification problem.
 
-## But what is Keras?
+## But what IS Keras?
 
 Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
 
