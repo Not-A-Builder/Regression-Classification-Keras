@@ -19,6 +19,6 @@ Allows for easy and fast prototyping (through user friendliness, modularity, and
 Supports both convolutional networks and recurrent networks, as well as combinations of the two.
 Runs seamlessly on CPU and GPU.
 
-#### Very importantly, Keras has been comprehendably documented at https://keras.io/ 
+### Very importantly, Keras has been comprehendably documented at https://keras.io/ 
 
 Do check it out!
