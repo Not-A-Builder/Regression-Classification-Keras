@@ -27,6 +27,8 @@ For example, an email of text can be classified as belonging to one of two class
 • A problem with more than two classes is often called a multi-class classification problem.  
 • A problem where an example is assigned multiple classes is called a multi-label classification problem.
 
+## Classification Vs Regression
+
 Demonstration of how to use the Keras library in Deep Neural Networks to solve Regression as well as Classification Problems.
 
 Inside the Dataets folder, you will find the 2 requisite datsets in .csv format:
