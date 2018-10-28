@@ -2,6 +2,10 @@
 
 ## Regression
 
+Regression predictive modeling is the task of approximating a mapping function (f) from input variables (X) to a continuous output variable (y).
+
+A continuous output variable is a real-value, such as an integer or floating point value. These are often quantities, such as amounts and sizes.
+
 
 
 Demonstration of how to use the Keras library in Deep Neural Networks to solve Regression as well as Classification Problems.
