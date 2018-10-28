@@ -21,7 +21,11 @@ The output variables are often called labels or categories. The mapping function
 
 For example, an email of text can be classified as belonging to one of two classes: “spam“ and “not spam“.
 
-
+• A classification problem requires that examples be classified into one of two or more classes.  
+• A classification can have real-valued or discrete input variables.  
+• A problem with two classes is often called a two-class or binary classification problem.  
+• A problem with more than two classes is often called a multi-class classification problem.  
+• A problem where an example is assigned multiple classes is called a multi-label classification problem.
 
 Demonstration of how to use the Keras library in Deep Neural Networks to solve Regression as well as Classification Problems.
 
