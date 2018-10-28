@@ -6,7 +6,12 @@ Regression predictive modeling is the task of approximating a mapping function (
 
 A continuous output variable is a real-value, such as an integer or floating point value. These are often quantities, such as amounts and sizes.
 
+For example, a house may be predicted to sell for a specific dollar value, perhaps in the range of $100,000 to $200,000.
 
+• A regression problem requires the prediction of a quantity.  
+• A regression can have real valued or discrete input variables.  
+• A problem with multiple input variables is often called a multivariate regression problem.  
+• A regression problem where input variables are ordered by time is called a time series forecasting problem.
 
 Demonstration of how to use the Keras library in Deep Neural Networks to solve Regression as well as Classification Problems.
 
