@@ -29,6 +29,17 @@ For example, an email of text can be classified as belonging to one of two class
 
 ## Classification Vs Regression
 
+Classification predictive modeling problems are different from regression predictive modeling problems.
+
+Classification is the task of predicting a discrete class label.
+Regression is the task of predicting a continuous quantity.
+There is some overlap between the algorithms for classification and regression; for example:
+
+A classification algorithm may predict a continuous value, but the continuous value is in the form of a probability for a class label.
+A regression algorithm may predict a discrete value, but the discrete value in the form of an integer quantity.
+
+## Aim of this Repo:
+
 Demonstration of how to use the Keras library in Deep Neural Networks to solve Regression as well as Classification Problems.
 
 Inside the Dataets folder, you will find the 2 requisite datsets in .csv format:
