@@ -1,5 +1,17 @@
 # Keras-Regression-Classification
 
+## Aim of this Repo:
+
+Demonstration of how to use the Keras library in Deep Neural Networks to solve Regression as well as Classification Problems.
+
+Inside the Dataets folder, you will find the 2 requisite datsets in .csv format:
+
+• hourly_wages_data
+
+• diabetes_data
+
+The code for demonstration of Keras usage is in .ipynb format, in the file DL_Keras_Regression-&-Classification.ipynb, and the same notebook contains the code for Regression problem and also the Classification problem.
+
 ## Regression
 
 Regression predictive modeling is the task of approximating a mapping function (f) from input variables (X) to a continuous output variable (y).
@@ -37,18 +49,6 @@ There is some overlap between the algorithms for classification and regression; 
 
 A classification algorithm may predict a continuous value, but the continuous value is in the form of a probability for a class label.
 A regression algorithm may predict a discrete value, but the discrete value in the form of an integer quantity.
-
-## Aim of this Repo:
-
-Demonstration of how to use the Keras library in Deep Neural Networks to solve Regression as well as Classification Problems.
-
-Inside the Dataets folder, you will find the 2 requisite datsets in .csv format:
-
-• hourly_wages_data
-
-• diabetes_data
-
-The code for demonstration of Keras usage is in .ipynb format, in the file DL_Keras_Regression-&-Classification.ipynb, and the same notebook contains the code for Regression problem and also the Classification problem.
 
 ## But what IS Keras?
 
