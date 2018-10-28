@@ -13,6 +13,16 @@ For example, a house may be predicted to sell for a specific dollar value, perha
 • A problem with multiple input variables is often called a multivariate regression problem.  
 • A regression problem where input variables are ordered by time is called a time series forecasting problem.
 
+## Classification
+
+Classification predictive modeling is the task of approximating a mapping function (f) from input variables (X) to discrete output variables (y).
+
+The output variables are often called labels or categories. The mapping function predicts the class or category for a given observation.
+
+For example, an email of text can be classified as belonging to one of two classes: “spam“ and “not spam“.
+
+
+
 Demonstration of how to use the Keras library in Deep Neural Networks to solve Regression as well as Classification Problems.
 
 Inside the Dataets folder, you will find the 2 requisite datsets in .csv format:
